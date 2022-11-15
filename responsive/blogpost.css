@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script:wght@600&family=Splash&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.post-img img{
+    height: 40%;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    opacity: 0.75;
+}
+#h2
+{
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+.blog-post-content
+{
+    background-color: white;
+    display: flex;
+    width: 900px;
+    height: 900px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    font-family: 'Dancing Script', cursive;
+    word-spacing: 16px;
+    
+}
+#h1{
+    padding-bottom: 20px;
+} 

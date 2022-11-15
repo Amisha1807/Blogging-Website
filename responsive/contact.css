@@ -1,0 +1,21 @@
+* {
+  margin: 12px;
+  padding: 5px;
+}
+.contact-form {
+  display: flex;
+
+  flex-direction: column;
+  margin: 10px 0px;
+  padding: 10px 0px;
+
+  background-image: url("10.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  color: black;
+}
+.mb-3
+{
+  padding-left: 5px;
+}
